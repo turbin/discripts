@@ -12,6 +12,7 @@
       其中:
       <input_file_path> 为你指定的输入文件;
       <output_file_path>为替换后的输出文件;
+
 * #### sort-by-keywors 该脚本用于将git-getlog脚本中抓取到日志，过滤出指定提交者的日志
   <p>调用方式:</p>
       sort-by-keywors.sh <path> 其中path为git-getlog脚本输出的日志文件路径
